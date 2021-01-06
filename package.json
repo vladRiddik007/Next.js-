@@ -11,7 +11,7 @@
     "@types/next": "^9.0.0",
     "@types/react-redux": "^7.1.9",
     "@zeit/next-typescript": "^1.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.14.0",
     "gray-matter": "^4.0.2",
     "next": "^9.4.1",
